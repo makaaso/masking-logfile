@@ -1,7 +1,7 @@
 #!/bin/bash
 # ======================================================================
-# Project Name    : <Project Name>
-# File Name       : mask-logfile.sh
+# Project Name    : masking-logfile
+# File Name       : masking-logfile.sh
 # Encoding        : utf-8
 # Creation Date   : Sep. 8, 2017
 #  
